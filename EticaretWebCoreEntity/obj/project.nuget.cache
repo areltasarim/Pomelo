@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LHAut7xa2bvnt+UDwy7pmlRWMJTYGdnhpmnfjp5SjIh16N9Uq2DUQ2EZ37woyM4jRZomdDQjhY2wlAFuLnNRjw==",
+  "dgSpecHash": "/4aSU+a07z5IRzo67VNgkkvY+ytVEH2FfCDIrXGGNFONAC5dooRtGA2MjNbNNkr/09l3NouwrcZ7CqKSCYc+YQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
+  "projectFilePath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EYYUP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\EYYUP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

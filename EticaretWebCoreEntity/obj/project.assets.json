@@ -4021,11 +4021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
+      "projectUniqueName": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
       "projectName": "EticaretWebCoreEntity",
-      "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
+      "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
       "packagesPath": "C:\\Users\\EYYUP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\obj\\",
+      "outputPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EYYUP\\AppData\\Roaming\\NuGet\\NuGet.Config",

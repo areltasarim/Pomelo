@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oulaNGMD27UecJF55qXJdA9wAkFOhl/NwA4BOtZ+w/jgeaUMzHnJ6YWt1hVr8lwpPVZZxhdX1E8pD4pgHEnttg==",
+  "dgSpecHash": "lvOjHODaWHK96+SBKV27NJ4oUVp8pu/VptGIfccp6P72HmPFRsAxREv3NzZKByFRZQJeIgH/62zAAxp/TKECiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\PomeloMysql.csproj",
+  "projectFilePath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\PomeloMysql\\PomeloMysql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EYYUP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\EYYUP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -22,3 +22,15 @@ C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Eticare
 C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.dll
 C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.pdb
 C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\ref\EticaretWebCoreEntity.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.deps.json
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.pdb
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.csproj.AssemblyReference.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.AssemblyInfoInputs.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.AssemblyInfo.cs
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.csproj.CoreCompileInputs.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\refint\EticaretWebCoreEntity.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.pdb
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\Pomelo\EticaretWebCoreEntity\obj\Debug\net7.0\ref\EticaretWebCoreEntity.dll

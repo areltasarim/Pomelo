@@ -4029,6 +4029,7 @@
       },
       "EticaretWebCoreMigrationMysql/1.0.0": {
         "dependencies": {
+          "EticaretWebCoreEntity": "1.0.0",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "7.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.0",

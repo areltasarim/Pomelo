@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\PomeloMysql.csproj": {}
+    "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\PomeloMysql\\PomeloMysql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj": {
+    "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
+        "projectUniqueName": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
         "projectName": "EticaretWebCoreEntity",
-        "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
+        "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj",
         "packagesPath": "C:\\Users\\EYYUP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\obj\\",
+        "outputPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EYYUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj": {
+    "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj",
+        "projectUniqueName": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj",
         "projectName": "EticaretWebCoreMigrationMysql",
-        "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj",
+        "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj",
         "packagesPath": "C:\\Users\\EYYUP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreMigrationMysql\\obj\\",
+        "outputPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreMigrationMysql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EYYUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,7 +124,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj": {
+                "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -174,14 +178,14 @@
         }
       }
     },
-    "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\PomeloMysql.csproj": {
+    "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\PomeloMysql\\PomeloMysql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\PomeloMysql.csproj",
+        "projectUniqueName": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\PomeloMysql\\PomeloMysql.csproj",
         "projectName": "PomeloMysql",
-        "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\PomeloMysql.csproj",
+        "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\PomeloMysql\\PomeloMysql.csproj",
         "packagesPath": "C:\\Users\\EYYUP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\obj\\",
+        "outputPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\PomeloMysql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EYYUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,11 +202,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj": {
-                "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj"
+              "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj": {
+                "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreEntity\\EticaretWebCoreEntity.csproj"
               },
-              "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj": {
-                "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj"
+              "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj": {
+                "projectPath": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\Pomelo\\EticaretWebCoreMigrationMysql\\EticaretWebCoreMigrationMysql.csproj"
               }
             }
           }
