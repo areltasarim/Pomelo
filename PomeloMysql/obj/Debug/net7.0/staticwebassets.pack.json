@@ -1,0 +1,961 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PomeloMysql.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PomeloMysql.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\404\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\404\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\404\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\404\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\404\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\Content\\404\\img\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\404\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Content\\404\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\404\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\Content\\404\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Scripts\\jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Scripts\\jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Scripts\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Scripts\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\1.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\1.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\1.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\1.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\2.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\2.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\2.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\2.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\3.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\3.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\3.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\3.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\4.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\4.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\4.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\4.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\5.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\5.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\5.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\5.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\6.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\6.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e-2.html",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e-2.html"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e-3.html",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e-3.html"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e-4.html",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e-4.html"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e-5.html",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e-5.html"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfontd41d.html",
+      "PackagePath": "staticwebassets\\Content\\Theme\\Tehemes\\yeni\\fonts\\fontawesome-webfontd41d.html"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\images\\basilidergi.jpg",
+      "PackagePath": "staticwebassets\\Content\\Theme\\images\\basilidergi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\images\\e-dergi.jpg",
+      "PackagePath": "staticwebassets\\Content\\Theme\\images\\e-dergi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\images\\yazarlarimiz.jpg",
+      "PackagePath": "staticwebassets\\Content\\Theme\\images\\yazarlarimiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\plugins\\contact-form-7\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\plugins\\contact-form-7\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\plugins\\contact-form-7\\includes\\js\\scripts.js,qver=4.7.pagespeed.jm.Y5JVv0oZ5r.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\plugins\\contact-form-7\\includes\\js\\scripts.js,qver=4.7.pagespeed.jm.Y5JVv0oZ5r.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\plugins\\mailchimp-for-wp\\assets\\js\\forms-api.min.js,qver=4.1.2.pagespeed.jm.w86soHVRvx.js",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\plugins\\mailchimp-for-wp\\assets\\js\\forms-api.min.js,qver=4.1.2.pagespeed.jm.w86soHVRvx.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\plugins\\ruby-demo-switcher\\A.switcher.css,qver=1.1.pagespeed.cf.EO8Hgwv5xH.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\plugins\\ruby-demo-switcher\\A.switcher.css,qver=1.1.pagespeed.cf.EO8Hgwv5xH.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\css\\A.theme-responsive.css,qver=1.0.pagespeed.cf.OfbuZrWmUH.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\css\\A.theme-responsive.css,qver=1.0.pagespeed.cf.OfbuZrWmUH.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\css\\A.theme-style.css,qver=1.0.pagespeed.cf.yakC-G9HGJ.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\css\\A.theme-style.css,qver=1.0.pagespeed.cf.yakC-G9HGJ.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\A.external-style.css,qver=1.0.pagespeed.cf.9qPI2bgbP5.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\A.external-style.css,qver=1.0.pagespeed.cf.9qPI2bgbP5.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.eot",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.svg",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.ttf",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.woff",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.woff2",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfont3e6e3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfontd41dd41d.eot",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\external\\fonts\\fontawesome-webfontd41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\images\\xcursor-close.png.pagespeed.ic.6ZDbgLLa-0.png",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\assets\\images\\xcursor-close.png.pagespeed.ic.6ZDbgLLa-0.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Theme\\wp-content\\themes\\bingo\\woocommerce\\css\\A.theme-woo.css,qver=1.0.pagespeed.cf.mIF9TsTnxI.css",
+      "PackagePath": "staticwebassets\\Content\\Theme\\wp-content\\themes\\bingo\\woocommerce\\css\\A.theme-woo.css,qver=1.0.pagespeed.cf.mIF9TsTnxI.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Dosyalar\\m012022000000205.pdf",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Dosyalar\\m012022000000205.pdf"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Diller\\teaser_elegance_1040x1022px-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Diller\\teaser_elegance_1040x1022px-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Ekipler\\772x1006px_pv_02.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Ekipler\\772x1006px_pv_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\FotografGalerileri\\teaser_elegance_1040x1022px-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\FotografGalerileri\\teaser_elegance_1040x1022px-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Kategoriler\\1180x1400px_pv_01.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Kategoriler\\1180x1400px_pv_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Logo\\teaser_elegance_1040x1022px-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Logo\\teaser_elegance_1040x1022px-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Magazalar\\1180x1400px_pv_01.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Magazalar\\1180x1400px_pv_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Magazalar\\sil-bc22_eos-3193-5010_eos-4080-1010_-until-12-2023_840x1040px.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Magazalar\\sil-bc22_eos-3193-5010_eos-4080-1010_-until-12-2023_840x1040px.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Magazalar\\sil-bc22_litewave_5557-3040_-until-12-2023_840x1040px-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Magazalar\\sil-bc22_litewave_5557-3040_-until-12-2023_840x1040px-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Magazalar\\teaser_elegance_1040x1022px-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Magazalar\\teaser_elegance_1040x1022px-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Markalar\\1180x1400px_pv_01.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Markalar\\1180x1400px_pv_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Markalar\\teaser_elegance_1040x1022px-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Markalar\\teaser_elegance_1040x1022px-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Sayfalar\\Kezban--Türkân--Beth--irazca--Ser-Humano_132_135_yavuzpak_1972018124042476cc119dd54095429e9fbc040a1f2b231c.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Sayfalar\\Kezban--Türkân--Beth--irazca--Ser-Humano_132_135_yavuzpak_1972018124042476cc119dd54095429e9fbc040a1f2b231c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Sayfalar\\surp-pirgic-ermeni-hastanesi-oncu-olmayi-su-rdu-ru-yor_surp-pirgic-hastanesi_1112022154430336.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Sayfalar\\surp-pirgic-ermeni-hastanesi-oncu-olmayi-su-rdu-ru-yor_surp-pirgic-hastanesi_1112022154430336.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Sayfalar\\teaser_elegance_1040x1022px-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Sayfalar\\teaser_elegance_1040x1022px-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Slaytlar\\teaser_elegance_1040x1022px-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Slaytlar\\teaser_elegance_1040x1022px-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Urunler\\1180x1400px_pv_01.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Urunler\\1180x1400px_pv_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\VideoKategorileri\\1180x1400px_pv_01.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\VideoKategorileri\\1180x1400px_pv_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\Videolar\\teaser_elegance_1040x1022px-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\Videolar\\teaser_elegance_1040x1022px-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Images\\resimyok.png",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Images\\resimyok.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Media\\Thumbs\\hizmetalanlarimiz.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Media\\Thumbs\\hizmetalanlarimiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\Upload\\Media\\Uploads\\hizmetalanlarimiz.jpg",
+      "PackagePath": "staticwebassets\\Content\\Upload\\Media\\Uploads\\hizmetalanlarimiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\edergi\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\assets\\images\\page-01.jpg",
+      "PackagePath": "staticwebassets\\Content\\edergi\\assets\\images\\page-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\assets\\images\\page-02.jpg",
+      "PackagePath": "staticwebassets\\Content\\edergi\\assets\\images\\page-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\assets\\images\\page-03.jpg",
+      "PackagePath": "staticwebassets\\Content\\edergi\\assets\\images\\page-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\assets\\images\\page-04.jpg",
+      "PackagePath": "staticwebassets\\Content\\edergi\\assets\\images\\page-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\assets\\images\\page-05.jpg",
+      "PackagePath": "staticwebassets\\Content\\edergi\\assets\\images\\page-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Content\\edergi\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\min_version\\ipages.min.css",
+      "PackagePath": "staticwebassets\\Content\\edergi\\min_version\\ipages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\min_version\\jquery.ipages.min.js",
+      "PackagePath": "staticwebassets\\Content\\edergi\\min_version\\jquery.ipages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\edergi\\min_version\\pdf.min.js",
+      "PackagePath": "staticwebassets\\Content\\edergi\\min_version\\pdf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\fullcalendar.print.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\gcal.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\gcal.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang-all.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang-all.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ar-ma.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ar-sa.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ar-tn.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\da.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\de-at.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\de-at.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\de.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\el.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\es.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\he.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\id.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\is.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\it.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\th.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\fullcalendar\\dist\\lang\\zh-tw.js",
+      "PackagePath": "staticwebassets\\Content\\fullcalendar\\dist\\lang\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\close.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\closeX.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\closeX.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\controlbar-black-border.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\controlbar-black-border.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\controlbar-text-buttons.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\controlbar-text-buttons.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\controlbar-white-small.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\controlbar-white-small.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\controlbar-white.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\controlbar-white.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\controlbar2.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\controlbar2.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\controlbar3.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\controlbar3.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\controlbar4-hover.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\controlbar4-hover.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\controlbar4.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\controlbar4.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\fullexpand.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\fullexpand.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\geckodimmer.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\geckodimmer.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\icon.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\icon.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\loader.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\loader.white.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\loader.white.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\outlines\\Outlines.psd",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\outlines\\Outlines.psd"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\outlines\\beveled.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\outlines\\beveled.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\outlines\\drop-shadow.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\outlines\\drop-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\outlines\\glossy-dark.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\outlines\\glossy-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\outlines\\outer-glow.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\outlines\\outer-glow.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\outlines\\rounded-black.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\outlines\\rounded-black.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\outlines\\rounded-white.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\outlines\\rounded-white.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\resize.gif",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\resize.gif"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\scrollarrows.png",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\scrollarrows.png"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\zoomin.cur",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\zoomin.cur"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\graphics\\zoomout.cur",
+      "PackagePath": "staticwebassets\\Content\\highslide\\graphics\\zoomout.cur"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-full.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-full.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-full.min.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-full.packed.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-full.packed.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-ie6.css",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-ie6.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-with-gallery.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-with-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-with-gallery.min.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-with-gallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-with-gallery.packed.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-with-gallery.packed.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-with-html.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-with-html.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-with-html.min.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-with-html.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide-with-html.packed.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide-with-html.packed.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide.css",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide.min.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\highslide\\highslide.packed.js",
+      "PackagePath": "staticwebassets\\Content\\highslide\\highslide.packed.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\price\\jautocalc.js",
+      "PackagePath": "staticwebassets\\Content\\price\\jautocalc.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\price\\jautocalc.js.map",
+      "PackagePath": "staticwebassets\\Content\\price\\jautocalc.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\price\\jautocalc.min.js",
+      "PackagePath": "staticwebassets\\Content\\price\\jautocalc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\Content\\price\\typings.d.ts",
+      "PackagePath": "staticwebassets\\Content\\price\\typings.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EYYUP\\Desktop\\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\\PomeloMysql\\PomeloMysql\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PomeloMysql.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PomeloMysql.props",
+      "PackagePath": "build\\PomeloMysql.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PomeloMysql.props",
+      "PackagePath": "buildMultiTargeting\\PomeloMysql.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PomeloMysql.props",
+      "PackagePath": "buildTransitive\\PomeloMysql.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,24 @@
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\bin\Debug\net7.0\EticaretWebCoreMigrationMysql.deps.json
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\bin\Debug\net7.0\EticaretWebCoreMigrationMysql.dll
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\bin\Debug\net7.0\EticaretWebCoreMigrationMysql.pdb
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.csproj.AssemblyReference.cache
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.AssemblyInfoInputs.cache
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.AssemblyInfo.cs
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.csproj.CoreCompileInputs.cache
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.dll
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\refint\EticaretWebCoreMigrationMysql.dll
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.pdb
+D:\Projects\paros.com.tr\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\ref\EticaretWebCoreMigrationMysql.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\bin\Debug\net7.0\EticaretWebCoreMigrationMysql.deps.json
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\bin\Debug\net7.0\EticaretWebCoreMigrationMysql.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\bin\Debug\net7.0\EticaretWebCoreMigrationMysql.pdb
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.csproj.AssemblyReference.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.AssemblyInfoInputs.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.AssemblyInfo.cs
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.csproj.CoreCompileInputs.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\refint\EticaretWebCoreMigrationMysql.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\EticaretWebCoreMigrationMysql.pdb
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreMigrationMysql\obj\Debug\net7.0\ref\EticaretWebCoreMigrationMysql.dll

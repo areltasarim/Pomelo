@@ -1,0 +1,24 @@
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.deps.json
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.dll
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.pdb
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.csproj.AssemblyReference.cache
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.AssemblyInfoInputs.cache
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.AssemblyInfo.cs
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.csproj.CoreCompileInputs.cache
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.dll
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\refint\EticaretWebCoreEntity.dll
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.pdb
+D:\Projects\paros.com.tr\EticaretWebCoreEntity\obj\Debug\net7.0\ref\EticaretWebCoreEntity.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.csproj.AssemblyReference.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.AssemblyInfoInputs.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.AssemblyInfo.cs
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.csproj.CoreCompileInputs.cache
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\refint\EticaretWebCoreEntity.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\EticaretWebCoreEntity.pdb
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.deps.json
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.dll
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\bin\Debug\net7.0\EticaretWebCoreEntity.pdb
+C:\Users\EYYUP\Desktop\VPOS 724 _GET724_ENTEGRASYON_DOKUMANI\PomeloMysql\EticaretWebCoreEntity\obj\Debug\net7.0\ref\EticaretWebCoreEntity.dll
